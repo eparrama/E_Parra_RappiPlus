@@ -1,4 +1,4 @@
-# ProyectoFinal_Ernesto_Parra
+# ProyectoFinal_Ernesto_Parra RappiPlus
 S12 Proyecto Final TripleTen
 Diagnóstico estratégico integral para RappiPlus
 El objetivo de este proyecto es evaluar el desempeño del servicio RappiPlus para apoyar decisiones de negocio basadas en datos.
