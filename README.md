@@ -66,5 +66,5 @@ Tasa de conversión Tratamiento: 16.29%
 Diferencia en tasas de conversión: 0.60%  
 **Por lo tanto el cambio implementado en el tratamiento no generó una mejora estadísticamente relevante, se tendrá que revisar y hacer mejoras**  
 **Paso 6:** Comunicar los resultados (Dashboard en Power BI)  
-![Dashboard RappiPlus - Página1](Dashboard_Power_BI_RappiPlus_Ernesto_Parra_page-0001)
-![Dashboard RappiPlus - Página2]  (Dashboard_Power_BI_RappiPlus_Ernesto_Parra_page-0002)  
+![Dashboard RappiPlus - Página1](Dashboard_PowerBI_RappiPlus_Ernesto_Parra_page-0001.jpg)  
+![Dashboard RappiPlus - Página2](Dashboard_PowerBI_RappiPlus_Ernesto_Parra_page-0002.jpg)  
