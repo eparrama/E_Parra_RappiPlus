@@ -1,7 +1,7 @@
 # Proyecto RappiPlus
 **Diagnóstico estratégico integral para RappiPlus**  
 **Objetivo**: Evaluar el desempeño del servicio RappiPlus para apoyar decisiones de negocio basadas en datos.  
-**Herramientas utilizadas:** SQL, Pandas, Python, A/B Testing & Power BI
+**Herramientas utilizadas:** SQL, Pandas, Python, A/B Testing & Power BI  
 **Datasets del negocio:**  
 rappiplus_orders_raw.csv → información de pedidos, precios, descuentos y revenue  
 rappiplus_catalog.csv → costos de productos, categorías y proveedores  
